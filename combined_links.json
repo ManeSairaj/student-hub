@@ -1,0 +1,99 @@
+{
+    "subject": "Python",
+    "level": "advanced",
+    "results": [
+        {
+            "title": "Python Full Course 2023 | Advanced Python Tutorial | Python Tutorial | Python Programming|SimpliCode - YouTube",
+            "link": "https://www.youtube.com/watch?v=2A8DWIFIzz4",
+            "tags": "YouTube Link"
+        },
+        {
+            "title": "Advanced Python Tutorial |Learn Advanced Python Concepts|Python Programming Training |Edureka Rewind - YouTube",
+            "link": "https://www.youtube.com/watch?v=StKfgp5rVGM",
+            "tags": "YouTube Link"
+        },
+        {
+            "title": "9 HOURS of Python Projects - From Beginner to Advanced - YouTube",
+            "link": "https://www.youtube.com/watch?v=NpmFbWO6HPU",
+            "tags": "YouTube Link"
+        },
+        {
+            "title": "Advanced_Programming_with_Python.pdf",
+            "link": "https://indico.cern.ch/event/884989/contributions/3732167/attachments/1991200/3331806/Advanced_Programming_with_Python.pdf",
+            "tags": "PDF Link"
+        },
+        {
+            "title": "Advanced%20Python%20Programming%20Syllabus.pdf",
+            "link": "https://www.isoeh.com/Advanced%20Python%20Programming%20Syllabus.pdf",
+            "tags": "PDF Link"
+        },
+        {
+            "title": "Course%20Content%20-%20Advanced%20Python.pdf",
+            "link": "https://www.nielit.gov.in/sites/default/files/kurukshetra/Course%20Content%20-%20Advanced%20Python.pdf",
+            "tags": "PDF Link"
+        }
+    ],
+    "udemy_courses": [
+        {
+            "title": "Python Web Programming",
+            "link": "https://www.udemy.com/python-web-programming/"
+        },
+        {
+            "title": "Complete Python Web Course: Build 8 Python Web Apps",
+            "link": "https://www.udemy.com/the-complete-python-web-course-learn-by-building-8-apps/"
+        },
+        {
+            "title": "Python for Beginners: Python Programming Language | Tutorial",
+            "link": "https://www.udemy.com/python-course/"
+        },
+        {
+            "title": "Introduction to QGIS Python Programming",
+            "link": "https://www.udemy.com/introduction-to-qgis-python-programming/"
+        },
+        {
+            "title": "Back to School Web Development and Programming Bundle",
+            "link": "https://www.udemy.com/back-to-school-web-development-and-programming-bundle/"
+        },
+        {
+            "title": "Introduction to web programming for GIS applications",
+            "link": "https://www.udemy.com/introduction-to-web-programming-for-gis-applications/"
+        },
+        {
+            "title": "Professional Python Web Development Using Flask",
+            "link": "https://www.udemy.com/python-flask-course/"
+        },
+        {
+            "title": "Web Programming Course : Asp.Net MVC",
+            "link": "https://www.udemy.com/mvc-course/"
+        },
+        {
+            "title": "Web Development w/ Google\u2019s Go (golang) Programming Language",
+            "link": "https://www.udemy.com/go-programming-language/"
+        },
+        {
+            "title": "The Complete TypeScript Programming Guide for Web Developers",
+            "link": "https://www.udemy.com/typescript-programming/"
+        },
+        {
+            "title": "Web Scraping with Python, Ruby & import. io",
+            "link": "https://www.udemy.com/web-scraping-with-python-ruby-import-io-for-fun-profit/"
+        },
+        {
+            "title": "Python and Django Full Stack Web Developer Bootcamp",
+            "link": "https://www.udemy.com/python-and-django-full-stack-web-developer-bootcamp/"
+        },
+        {
+            "title": "Advanced Scalable Python Web Development Using Flask",
+            "link": "https://www.udemy.com/advanced-python-flask/"
+        },
+        {
+            "title": "Python Programming: Create an Digital Marketplace in Django",
+            "link": "https://www.udemy.com/coding-for-entrepreneurs-marketplace-daily-deals/"
+        },
+        {
+            "title": "Fun and creative web engineering with Python and Web2py",
+            "link": "https://www.udemy.com/web-engineering-with-python-and-web2py/"
+        }
+    ],
+    "errors": []
+}

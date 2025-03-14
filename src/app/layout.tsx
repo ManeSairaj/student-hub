@@ -4,6 +4,9 @@ import type React from "react";
 import type { Metadata } from "next";
 import MouseMoveEffect from "@/components/mouse-move-effect";
 import { ClerkProvider } from "@clerk/nextjs";
+import Navbar from "@/components/Navbar";
+import Sidebar from "@/components/Sidebar";
+import { AppProvider } from "@/Context/context";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -22,14 +25,16 @@ export default function RootLayout({
     <ClerkProvider>
       <html lang="en" className="dark">
         <body
-          className={`${inter.className} bg-background text-foreground antialiased`}
+          className={`${inter.className} bg-background text-foreground antialiased min-h-screen w-screen`}
         >
-          <div className="pointer-events-none fixed inset-0">
+          <div className="pointer-events-none fixed inset-0 min-h-screen w-screen">
             <div className="absolute inset-0 bg-gradient-to-b from-background via-background/90 to-background" />
             <div className="absolute right-0 top-0 h-[500px] w-[500px] bg-blue-500/10 blur-[100px]" />
             <div className="absolute bottom-0 left-0 h-[500px] w-[500px] bg-purple-500/10 blur-[100px]" />
           </div>
-          {children}
+          <div className="flex items-center justify-center min-h-screen w-screen">
+            <AppProvider>{children}</AppProvider>
+          </div>
         </body>
       </html>
     </ClerkProvider>

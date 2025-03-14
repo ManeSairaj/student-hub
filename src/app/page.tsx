@@ -6,6 +6,7 @@ import Footer from "@/components/Footer";
 import Hero from "@/components/Hero";
 import Navbar from "@/components/LandingPage/Navbar";
 import MouseMoveEffect from "@/components/mouse-move-effect";
+import Testimonials from "@/components/Testimonials";
 import { cn } from "@/lib/utils";
 import { motion } from "motion/react";
 
@@ -59,12 +60,13 @@ export default function Home() {
           className="left-[20%] md:left-[25%] top-[5%] md:top-[10%]"
         />
       </div>
-      <div className="relative min-h-screen">
-        <div className="relative z-10">
+      <div className="relative min-h-screen min-w-full">
+        <div className="relative z-10 min-w-full">
           <Navbar />
           <Hero />
           <Features />
           <CTA />
+          <Testimonials />
           <Footer />
         </div>
       </div>
